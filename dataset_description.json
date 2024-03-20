@@ -16,6 +16,6 @@
     "ReferencesAndLinks": [
         "https://www.biorxiv.org/content/10.1101/2024.02.13.580092v2"
     ],
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005050.v1.0.0",
     "BIDSVersion": "1.0.1"
 }
